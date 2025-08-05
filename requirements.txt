@@ -7,3 +7,4 @@ matplotlib
 streamlit 
 scikeras
 nltk
+keras
